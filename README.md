@@ -1,4 +1,4 @@
-# 余额台账（GitHub Pages）
+# 余额台账
 
 免登录直接打开余额。
 
@@ -13,4 +13,4 @@ sync-push.bat
 （会重新导出 data.json 并 push 到 GitHub）
 
 ## 访问
-https://bury-hui.github.io/GitHub-Pages/
+https://bury-hui.github.io/my-money/

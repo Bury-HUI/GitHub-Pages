@@ -1,7 +1,7 @@
 @echo off
 cd /d "%~dp0"
 if "%~1"=="" (
-  echo Usage: push.bat https://github.com/???/balance-ledger.git
+  echo Usage: push.bat https://github.com/Bury-HUI/my-money.git
   pause
   exit /b 1
 )
